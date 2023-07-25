@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "head": "Happy birthday",
+      "date": "July 25 ,2023 3:18:23 PM",
+      "event": "this is al legacy of this earth ever happens i was landed on this earth"
+    },
+    {
+      "id": 2,
+      "head": "Nava Growth Day",
+      "date": "July 25 ,2023 3:15:12 PM",
+      "event": "nava i was started this journey on coding"
+    },
+    {
+      "id": 4,
+      "head": "navaharish's Hard Work Gives me Success",
+      "date": "July 25 ,2023 3:02:17 PM",
+      "event": "earn more money , love , lot people support"
+    },
+    {
+      "id": 5,
+      "head": "Dhinesh talks",
+      "date": "July 25 ,2023 3:22:28 PM",
+      "event": "singing dancing doing workout"
+    }
+  ]
+}
